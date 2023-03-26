@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6affd6f.css",
+    "main.js": "/static/js/main.5adf585b.js",
+    "static/js/787.d0a4c1b9.chunk.js": "/static/js/787.d0a4c1b9.chunk.js",
+    "static/media/makka.jpg": "/static/media/makka.3e2a90fd815e21c4c4c6.jpg",
+    "static/media/madina.jpg": "/static/media/madina.4d200b40bde4bdf864fc.jpg",
+    "static/media/hotel.jpg": "/static/media/hotel.5a9363407ea6ff09fae6.jpg",
+    "static/media/temp.jpg": "/static/media/temp.56252908dd3f428baff9.jpg",
+    "index.html": "/index.html",
+    "main.c6affd6f.css.map": "/static/css/main.c6affd6f.css.map",
+    "main.5adf585b.js.map": "/static/js/main.5adf585b.js.map",
+    "787.d0a4c1b9.chunk.js.map": "/static/js/787.d0a4c1b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6affd6f.css",
+    "static/js/main.5adf585b.js"
+  ]
+}
